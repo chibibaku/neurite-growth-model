@@ -1,5 +1,8 @@
 # neurite-growth-model
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chibibaku/neurite-growth-model/blob/main/neurite-growth-model_py.ipynb)
+
+
 神経突起（neurite）の成長モデルを、Jupyter Notebook (Python環境)で確認するためのリポジトリです。
 このリポジトリの内容は、以下の記事を出典・参考元として作成しています。
 
